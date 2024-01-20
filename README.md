@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Prameya
-- 🏢 I'm pursuing my Standard IX.
+- 🏢 I'm pursuing my Standard X.
 - 📍 I'm located at Rourkela, Odisha.
 - 👦🏻 Student at Delhi Public School, Rourkela.
 - 👀 I’m interested in Programming and Web Development.
